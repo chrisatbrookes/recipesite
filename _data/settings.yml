@@ -1,12 +1,12 @@
-title: Your name or name of site
+title: Chris Jennings at Brookes with Recipes
 description: A website with a blog
-header_text: My Dream Blog
+footer_text: Copyright 2021 Chris Jennings
+header_feature_image: ../uploads/placeholder1.jpg
+header_text: Oxford Dreams
 header_text_color: "#ffffff"
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
