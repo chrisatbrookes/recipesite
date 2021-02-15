@@ -8,6 +8,10 @@ html {
     background: #fff;
 }
 
+span.p {
+	display:inline;
+}
+
 * {
     margin: 0;
     padding: 0;
