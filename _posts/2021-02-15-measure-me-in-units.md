@@ -20,3 +20,5 @@ We should just remind ourselves about this, because some of these important unit
 ![Here we see the structure of the web page](../uploads/html-dom.png "Web page structure")
 
 We have `<html>` as the root element with `<body>`as the main content. Within this we will have a number of block level elements such as headings, paragraphs, sections, navs and articles.
+
+### OK, now what about the units. Let's talk font size.
