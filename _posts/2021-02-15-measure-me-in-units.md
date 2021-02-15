@@ -22,3 +22,5 @@ We should just remind ourselves about this, because some of these important unit
 We have `<html>` as the root element with `<body>`as the main content. Within this we will have a number of block level elements such as headings, paragraphs, sections, navs and articles.
 
 ### OK, now what about the units. Let's talk font size.
+
+By default the root element (HTML) will already have the font size set to 16pixels; meaning that a paragraph of text will display a 16pixel height even before you begin to add CSS styles.
