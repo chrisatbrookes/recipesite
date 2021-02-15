@@ -23,4 +23,4 @@ We have `<html>` as the root element with `<body>`as the main content. Within th
 
 ### OK, now what about the units. Let's talk font size.
 
-By default the root element (HTML) will already have the font size set to 16pixels; meaning that a paragraph of text will display a 16pixel height even before you begin to add CSS styles.
+By default the root element (HTML) will already have the font size set to 16pixels; meaning that a paragraph of text will display a 16pixel height even before you begin to add CSS styles. All elements such as headings and lists will be based on this number. To make use of this value without using pixels we can use the **rem** unit. This is the root em. By default as I say this will be 16px.
