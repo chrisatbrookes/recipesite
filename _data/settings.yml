@@ -1,11 +1,11 @@
 title: Chris Jennings at Brookes with Recipes
 description: A website with a blog
 footer_text: Copyright 2021 Chris Jennings
-header_feature_image: ../uploads/placeholder1.jpg
+header_feature_image: ../uploads/fromthepark.jpg
 header_text: Oxford Dreams
 header_text_color: "#ffffff"
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/passport.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
