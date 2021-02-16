@@ -1,7 +1,9 @@
 ---
-layout: recipeslisting
-title: This is the title
+title: Greek Island Recipes
 permalink: /allrecipes
-published: true
+date: 2021-02-16T11:31:46.294Z
 show: false
+layout: recipeslisting
+published: true
 ---
+Here are all of the recipes:
