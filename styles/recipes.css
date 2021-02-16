@@ -4,6 +4,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   background: #fff;
+  font-size:10px;
 }
 
 * {
@@ -13,7 +14,19 @@ html {
 }
 
 body {
-  margin: 30px;
+background-color: #c5b0cc;
+font-family: verdana, arial, helvetica, sans-serif;
+margin:0;
+font-size: 1.4rem;
+}
+
+h1,h2 {
+color:rgb(13, 74, 154);
+font-family: georgia, serif;
+}
+
+p {
+
 }
 
 article,
@@ -33,7 +46,8 @@ summary {
 }
 
 img {
-  max-width: 100%;
+  display: block;
+  width: 100%;
 }
 
 blockquote {
@@ -85,35 +99,19 @@ ul.allrecipes {
 
 
 html {
-
   font-size:10px;
 }
 
-
-body {
-background-color: rgb(227, 196, 250);
-font-family: verdana, arial, helvetica, sans-serif;
-margin:0;
-font-size: 1.4rem;
-}
-
-h1,h2 {
-color:rgb(13, 74, 154);
-font-family: georgia, serif;
-}
-
-p {
-
-}
 
 h2 {
 color:rgb(1, 29, 55);
 }
 
-p.blurb {
-font-size: 20px;
-
+p:first-child {
+  font-size: 2rem;
+  color:red;
 }
+
 
 .blurb:first-letter {
   background-color: rgb(61, 60, 145);
@@ -126,7 +124,7 @@ font-size: 20px;
   margin: .1em;
 }
 
-.everything {
+main {
 width:70%;
 max-width: 900px;
 /* border:1px solid green; */
@@ -138,31 +136,3 @@ flex-wrap: wrap;
 flex-direction:row;
 /* justify-content: flex-start; */
 }
-
-ul {
-color: purple;
-list-style-type: "→";
-}
-
-.info {
-  color:black;
-}
-
-.information {
-  /* border: 1px solid orange; */
-  padding: 0 12px;
-  flex: 1 0 50%;
-}
-
-.picture {
-  flex:1 0 300px;
-  /* border: 1px solid purple; */
-}
-
-img {
-/* max-width: 800px; */
-margin: 0;
-width:100%;
-display: block;
-}
-
