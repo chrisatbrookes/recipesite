@@ -1,16 +1,14 @@
 ---
-title: My Recipes
+title: Greek Island Recipes
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
-show: false
+show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+Stretching from the shores of Turkey to the Ionian Sea east of Italy, the Greek islands have been the crossroads of the Mediterranean since the time of Homer and boast some of the most intrig11ing food in the world.
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Greek Island Recipes title against a picture of a boat in Greece](../uploads/greekrecipes.jpg "Come of my book")
 
-Add the cover image here.
+Simple but never plain, the cooking of the islands relies on flavorful ingredients rather than complicated techniques, making extensive use of seasonal vegetables, fresh herbs, grains and beans, olives and olive oil, cheeses and fish.
 
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Inflected with subtle Italian and Eastern accents, the cuisine is at once straightforward and sophisticated.
