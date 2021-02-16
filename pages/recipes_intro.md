@@ -12,3 +12,5 @@ Stretching from the shores of Turkey to the Ionian Sea east of Italy, the Greek 
 Simple but never plain, the cooking of the islands relies on flavorful ingredients rather than complicated techniques, making extensive use of seasonal vegetables, fresh herbs, grains and beans, olives and olive oil, cheeses and fish.
 
 Inflected with subtle Italian and Eastern accents, the cuisine is at once straightforward and sophisticated.
+
+[See a list of all recipes](https://oxtale.netlify.app/allrecipes/)
