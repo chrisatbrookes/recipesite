@@ -47,3 +47,7 @@ To assemble, cover the base of the roasting dish with half of the fried aubergin
 
 * Serves: 6
 * Preparation time: 1 hour
+
+
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/8U_29i9Qp5U?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
