@@ -58,7 +58,7 @@ Here we see the code that I am using to get the correct tags in both Facebook an
 
 You will see from the code block above that both `OpenGraph` and `TwitterCard` expect an image to display.  In this case we use an image that has a path set out in the `YAML` config. In other words you need to commit to an image for your site. There are other options. You can give each page or blog post on your site an image; in this case the code snippet above might go something like:
 
-```html
+```coffeescript
 {%- if page.image != null -%}
 <meta property="og:image" content="{{site.url}}{{page.image}}">
 {%- else -%}
@@ -72,7 +72,7 @@ Facebook and Twitter want some honest info to display. The question is; do you w
 
 Here is snippet for the `TwitterCard` that will get that right:
 
-```html
+```coffeescript
 {%- if page.blurb != null -%}
 <meta name="twitter:description" content="{{page.blurb}}">
 {%- else -%}
