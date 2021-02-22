@@ -45,9 +45,9 @@ Melt the butter and, away from the heat, gradually add the flour and stir to ama
 
 To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from [Macedonia](https://en.wikipedia.org/wiki/Macedonia)may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
 
+<section class="details">
+
 * Serves: 6
 * Preparation time: 1 hour
 
-
-
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/8U_29i9Qp5U?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</section>
