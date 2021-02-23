@@ -3,7 +3,6 @@
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background: #fff;
   font-size:10px;
 }
 
@@ -16,8 +15,8 @@ html {
 body {
 background-color: #c5b0cc;
 font-family: verdana, arial, helvetica, sans-serif;
-margin:0;
 font-size: 1.4rem;
+/* padding-top: 6rem; */
 }
 
 h1,h2 {
@@ -71,6 +70,17 @@ ul {
   margin-bottom: 1em;
 }
 
+ul {
+margin-left: 4rem;
+font-family: georgia, serif;
+}
+
+ul:last-child {
+font-size: 2rem;
+color:rgb(20, 185, 155);
+list-style: none;
+}
+
 hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -83,18 +93,31 @@ a {
   text-decoration: none;
 }
 
+nav {
+/* border:3px solid red; */
+background-color: black;
+}
+
 /* for a menu for all recipes */
 ul.allrecipes {
   list-style: none;
+margin-left: 0;
 }
 
 .menu {
   display: block;
-  border: 1px solid gray;
+  /* border: 1px solid red; */
   width: 15%;
   font-size: 60%;
   padding: 10px;
   margin: 20px 0;
+position:fixed;
+top:0;
+right:0;
+}
+
+.menu ul {
+font-size:1.5rem;
 }
 
 
@@ -104,31 +127,28 @@ html {
 
 
 h2 {
-color:rgb(1, 29, 55);
+color:rgb(245, 78, 55);
+}
+
+h2#ingredients {
+color:rgb(118, 93, 170);
 }
 
 p:first-child {
   font-size: 2rem;
-  color:red;
+  color:rgb(50, 48, 149);
 }
 
-
-.blurb:first-letter {
-  background-color: rgb(61, 60, 145);
-  color: white;
-  float: left;
-  font-family: Georgia;
-  font-size: 4em;
-  line-height: 1;
-  padding: 0 .1em;
-  margin: .1em;
+.recipehere {
+color:white;
 }
+
 
 main {
 width:70%;
 max-width: 900px;
 /* border:1px solid green; */
-margin: 0 auto;
+margin: 2rem auto;
 background-color: white;
 padding:12px 30px;
 display: flex;
@@ -136,3 +156,61 @@ flex-wrap: wrap;
 flex-direction:row;
 /* justify-content: flex-start; */
 }
+
+figure {
+width:30%;
+float:right;
+margin-left: 2rem;
+}
+
+@media screen and (max-width: 700px) {
+
+  figure {
+  width:60%;
+  float:none;
+  margin: 0 auto 2rem auto;
+  }
+
+.menu {
+margin:0;
+}
+
+  main {
+  width: 100%;
+  }
+
+  body {
+  background-color: white;
+  padding:0;
+margin:0;
+}
+
+body.recipe p:first-child {
+  margin-right: 8rem;
+}
+
+}
+
+@media screen and (max-width: 500px) {
+
+  figure {
+  width:100%;
+  float:none;
+  margin: 0 auto 2rem auto;
+  }
+
+}
+/* header {
+background-color: rgb(38, 69, 129);
+color:white;
+padding: 2rem;
+width:100%;
+position:fixed;
+top:0;
+left:0;
+}
+
+header h1 {
+color:white;
+text-align: center;
+} */
