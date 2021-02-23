@@ -17,7 +17,7 @@ Orzo Pasta looks a little like long grain rice, and is most versatile. I've seen
 
 * 1 large cup of uncooked Orzo pasta
 * 2 tomatoes, chopped as desired usually about half inch pieces
-* Half cucumber peeled and chopped
+* ½ cucumber peeled and chopped
 * 1 small red onion chopped
 * 1 pepper, red, green or orange also chopped
 * Half a cup of mixed oregano, and parsley, chopped.
