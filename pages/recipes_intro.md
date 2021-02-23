@@ -5,7 +5,7 @@ date: 2020-11-19T18:50:31.663Z
 show: true
 layout: recipeshome
 ---
-Stretching from the shores of Turkey to the Ionian Sea east of Italy, the Greek islands have been the crossroads of the Mediterranean since the time of Homer and boast some of the most intrig11ing food in the world.
+Stretching from the shores of Turkey to the Ionian Sea east of Italy, the Greek islands have been the crossroads of the Mediterranean since the time of Homer and boast some of the most intriguing food in the world.
 
 ![Greek Island Recipes title against a picture of a boat in Greece](../uploads/greekrecipes.jpg "Cover of the book")
 
