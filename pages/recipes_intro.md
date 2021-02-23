@@ -1,5 +1,5 @@
 ---
-title: Greek Island Recipes
+title: Greek Island Recipes Introduction
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
 show: true
