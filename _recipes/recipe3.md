@@ -9,14 +9,14 @@ tags: null
 A delicious summer treat. Cook indoors or out on the barbeque. Serve up with Retsina or some cold Greek beer.
 Ingredients
 
-
-
 ![A plate full of Potato balls](../uploads/potatoballsfromlesvos.jpg)
+
+## Ingredients
 
 * 1 kg potatoes, boiled and pureed
 * 4 - 5 eggs
 * Bunch of parsley, finely chopped
-* 1,5 cup grated dried mitzithra cheese
+* 1½ cup grated dried mitzithra cheese
 * Salt
 * Pepper
 * olive oil for frying
