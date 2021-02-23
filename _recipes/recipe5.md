@@ -12,17 +12,17 @@ This Pasta salad makes a deliciously filling meal and there is enough ingredient
 
 ## Ingredients
 
-* 1/4 cup (50 mL) olive oil
-* 1 1/2 tbsp (25 mL) lemon juice
+* ¼ cup (50 mL) olive oil
+* 1 ½ tbsp (25 mL) lemon juice
 * half cup of fresh oregano and parsley, chopped
 * 1 garlic clove, chopped
 * 2 tablespoons of mayonnaise
-* 1-1/2 cups (375 mL) penne pasta,, or bow tie cooked, drained
+* 1-½ cups (375 mL) penne pasta,, or bow tie cooked, drained
 * 1 cup (250 mL) crumbled Feta cheese, (optional)
 * 1 cup (250 mL) diced tomato
 * 1 cup (250 mL) seedless cucumber, diced
-* 1/2 cup (125 mL) each sliced pitted black olives
-* 1/2 cup (125 mL) green pepper,or cooked green beans, sliced.
+* ½ cup (125 mL) each sliced pitted black olives
+* ½ cup (125 mL) green pepper,or cooked green beans, sliced.
 * 2 chopped spring onions, Salt and pepper
 * 2 cooled cooked chicken breasts, thinly sliced or cubed.
 
