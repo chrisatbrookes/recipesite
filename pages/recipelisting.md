@@ -1,5 +1,5 @@
 ---
-title: Greek Island Recipes
+title: Greek Island Recipes List
 permalink: /allrecipes
 date: 2021-02-16T11:31:46.294Z
 show: false
