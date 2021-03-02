@@ -92,9 +92,13 @@ hr {
   margin: 1em 0;
 }
 
+a {
+  text-decoration: none;
+  color: purple;
+}
+
 .menu a {
   color: white;
-  text-decoration: none;
 }
 
 nav {
