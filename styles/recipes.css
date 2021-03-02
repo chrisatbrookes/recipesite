@@ -1,8 +1,6 @@
 /* CSS for recipes */
 
 html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
   font-size:10px;
 }
 
@@ -21,7 +19,7 @@ font-size: 1.4rem;
 
 h1,h2 {
 color:rgb(13, 74, 154);
-font-family: georgia, serif;
+font-family: verdana, sans-serif;
 }
 
 p {
@@ -79,6 +77,7 @@ ul:last-child {
 font-size: 2rem;
 color:rgb(20, 185, 155);
 list-style: none;
+margin-left:0;
 }
 
 hr {
@@ -88,14 +87,14 @@ hr {
   margin: 1em 0;
 }
 
-a {
-  color: #337ab7;
+.menu a {
+  color: white;
   text-decoration: none;
 }
 
 nav {
 /* border:3px solid red; */
-background-color: black;
+background-color: rgba(43, 13, 64, 0.84);
 }
 
 /* for a menu for all recipes */
@@ -110,10 +109,11 @@ margin-left: 0;
   width: 15%;
   font-size: 60%;
   padding: 10px;
-  margin: 20px 0;
+  margin: 18px 0;
+min-width: 120px;
 position:fixed;
 top:0;
-right:0;
+left:0;
 }
 
 .menu ul {
@@ -140,7 +140,7 @@ p:first-child {
 }
 
 .recipehere {
-color:white;
+color:orange;
 }
 
 
@@ -175,6 +175,10 @@ margin-left: 2rem;
 margin:0;
 }
 
+.menu ul {
+font-size:1rem;
+}
+
   main {
   width: 100%;
   }
@@ -182,12 +186,17 @@ margin:0;
   body {
   background-color: white;
   padding:0;
-margin:0;
+  margin:0;
 }
 
-body.recipe p:first-child {
-  margin-right: 8rem;
+
+body.recipe p:first-child,  body.recipe h1 {
+  margin-left: 10rem;
 }
+  
+/*   main {
+    margin-left: 10rem;
+  } */
 
 }
 
@@ -198,19 +207,18 @@ body.recipe p:first-child {
   float:none;
   margin: 0 auto 2rem auto;
   }
-
+  
+  body.recipe p:first-child,  body.recipe h1 {
+  margin-left: 0;
 }
-/* header {
-background-color: rgb(38, 69, 129);
-color:white;
-padding: 2rem;
-width:100%;
-position:fixed;
+  
+  .menu {
+position:relative;
 top:0;
 left:0;
+width:100%;
+text-align: center;
 }
 
-header h1 {
-color:white;
-text-align: center;
-} */
+}
+
