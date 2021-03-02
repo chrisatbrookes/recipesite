@@ -22,6 +22,11 @@ color:rgb(13, 74, 154);
 font-family: verdana, sans-serif;
 }
 
+.recipeshome h1 {
+  font-size:3em;
+  color:black;
+}
+
 p {
 
 }
